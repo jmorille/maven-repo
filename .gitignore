@@ -1,3 +1,4 @@
 .DS_Store
 target/
 maven-metadata-local.xml
+_maven.repositories
